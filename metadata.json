@@ -1,0 +1,8 @@
+{
+  "name": "Fanzhen Portfolio",
+  "description": "A minimal and polished personal portfolio for UIUX Designer Fanzhen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
